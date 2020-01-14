@@ -1,0 +1,15 @@
+{
+  "name": "br-cities-complete",
+  "version": "1.0.0",
+  "description": "A simple braziliam cities names complete library",
+  "main": "index.js",
+  "repository": "https://github.com/pedrorobsonleao/br-cities-complete.git",
+  "author": "Pedro Robson Leão <pedro.leao@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^7.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
